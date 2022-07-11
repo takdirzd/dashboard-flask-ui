@@ -26,4 +26,4 @@ Data yang digunakan pada capstone project ini adalah data hasil scraping dari Go
 - Numpy
 
 ## Goal
-Pada capstone ini, Anda diharapkan untuk dapat membangun sebuah aplikasi Flask yang fokus pada tampilan user interface. 
+Pada capstone ini, diharapkan untuk dapat membangun sebuah aplikasi Flask yang fokus pada tampilan user interface. 
